@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Коллекция</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Коллекция</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Oct 2024 20:58:14 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Ivent legendary</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 09 Oct 2024 20:58:14 +0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;tao&#34;&gt;Tao&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Приветствую!</title>
+      <link>http://localhost:1313/posts/lane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/lane/</guid>
+      <description>&lt;h2 id=&#34;yelan&#34;&gt;Yelan&lt;/h2&gt;&#xA;&lt;p&gt;Е Лань — это играбельный Гидро персонаж в игре Genshin Impact.&lt;/p&gt;&#xA;&lt;p&gt;Её элементальный навык позволяет ей быстро двигаться и тянуть Нить жизни, которая отмечает противников на её пути. После окончания движения Нить жизни взрывается, нанося Гидро урон отмеченным противникам.&lt;/p&gt;&#xA;&lt;p&gt;Долгое нажатие позволяет контролировать направление движения. Каждый противник, отмеченный Нитью жизни, даёт Е Лань определённый шанс на получение состояния Прорыва при взрыве, который усиливает её следующий заряженный прицельный выстрел.&lt;/p&gt;&#xA;&lt;p&gt;Взрыв стихии Е Лань наносит Гидро урон по площади и создаёт Изысканный бросок, который помогает активному персонажу в битве.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Приветствую!</title>
+      <link>http://localhost:1313/posts/tao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tao/</guid>
+      <description>&lt;h2 id=&#34;hu-tao&#34;&gt;Hu Tao&lt;/h2&gt;&#xA;&lt;p&gt;Ху Тао — игровой персонаж из Genshin Impact, который применяет в битвах древковое вооружение и Пиро стихию.&lt;/p&gt;&#xA;&lt;p&gt;Она — хозяйка бюро «Ваншэн», которое оказывает ритуальные услуги жителям региона. Заведение и должность передаётся по наследству в семье девушки.&lt;/p&gt;&#xA;&lt;p&gt;У Ху Тао необычная механика нанесения урона: при активации элементального навыка девушка жертвует 30% от здоровья, взамен увеличивает силу. Чтобы не погибнуть на поле битвы, необходимо использовать щит и взрыв стихий.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
